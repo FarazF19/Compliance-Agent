@@ -11,3 +11,5 @@ weasyprint
 docxtpl 
 pymupdf
 crewai
+sentence-transformers 
+scikit-learn
