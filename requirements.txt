@@ -1,0 +1,13 @@
+ipykernel
+langchain
+python-dotenv
+openai
+langchain_groq
+langchain_community
+pinecone-client 
+pymongo
+jinja2 
+weasyprint 
+docxtpl 
+pymupdf
+crewai
